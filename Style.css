@@ -67,19 +67,19 @@ body{
     background-color: rgb(35, 91, 136);
 }
 
-#home{
+.home{
     border: 2px solid black;
     height: 50vh;
     margin: 18px;
 }
 
-#home >h1{
+.home >h1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration: underline white;
     margin: 12px;
     text-align: center;
 }
-#home,p{
+.home,p{
     padding: 12px;
     margin: 29px;
     color: rgb(255, 255, 255);
