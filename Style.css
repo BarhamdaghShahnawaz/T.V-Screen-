@@ -101,10 +101,25 @@ body{
 }
 
 .next{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 0.7rem;
     background-color: black;
     color: white;
     font-size: x-large;
     text-decoration: none;
     border: 2px solid rgb(255, 255, 255);
+}
+
+iframe{
+    margin: 0;
+    padding: 35px;
+}
+
+.videos{
+    margin: 12px;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
 }
